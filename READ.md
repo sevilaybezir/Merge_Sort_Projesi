@@ -13,3 +13,5 @@
 
 2. Big-O gösterimini yazınız.
 O(nlogn)
+
+[PATİKA HESABI](https://app.patika.dev/sevilaybezir)
